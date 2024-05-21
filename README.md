@@ -1,2 +1,2 @@
-# email-spam-classifier
-This project classifies massages into two categories : spam and ham
+# email-spam-classifier-new
+End to end code for the email spam classifier project
